@@ -1,11 +1,13 @@
 # Project Overview
 
-The purpose of this project was to learn how to take data that is stored as a JavaScript array or list and create a table to organize the information that will visually adjust as "events" change (i.e. filtering). In order to react when an element is changed, we use Javascript functions to loop through the data to build the table and create a customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. In this exercise, we reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. Finally, we use HTML, Bootstrap and CSS to read the Javascript code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
+The purpose of this project is to learn how to take data that is stored as a JavaScript array or list and create a table to organize the information that will visually adjust as "events" change (i.e. filtering). In order to react when an element is changed, we use Javascript functions to loop through the data to build the table and create a customized dashboard. The customizations include filters with event listeners that will record the information when an element has changed and develop an interactive webpage. Filters can be applied in many ways. We will reviewed how to display default data in the table, listen for a button click or trigger the table to update based on the user's input with a select criteria. We use HTML, and CSS to read the Javascript code and create a webpage that is easy to view, includes filters, images, and a synopsis of the topic.
 
 
 ## Topic
 
-Are we alone in this universe? UFO sightings have been an obsession among many for centuries. Are they real or some government conspiracy? We have been tasked to help Dana with building a webpage in which others can access information of reported sightings and see for themselves. This webpage should include:
+UFO sightings have been an obsession among many for centuries. Are they real or some government conspiracy? We have been tasked to help Dana with building a webpage in which others can access information of reported sightings and 
+
+see for themselves. This webpage should include:
 
 A description or summary of the topic
 A table to display all of the information from the data source
@@ -26,7 +28,7 @@ Search filters that will allow for visitors to update the table based on the sea
 
 #### Drawbacks:
 
-Unfortunately, the page has several drawbacks. They include:
+The page has several drawbacks. They include:
 
 The search field is "case-sensitive". The table will not update if you do not enter exactly how the data is stored and does not allow for partial entries. This is an issue because it does not intuitively tell the user how the information should be entered other than the "default" example shown.
 
